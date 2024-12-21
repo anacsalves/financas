@@ -26,7 +26,7 @@ export default function SignIn(){
         enabled
       >
         <Logo
-          source={require('../../assets/Logo.png')}
+          source={require('../../assets/imgs/Logo.png')}
         />
 
         <AreaInput>
